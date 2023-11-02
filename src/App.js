@@ -8,10 +8,10 @@ function App() {
       <img src={logo} className="App-logo" alt="logo" />
       </header>
       
-      <label>testInput:
+      <label>Input:
         <textarea name="inputText" rows = {4} cols= {40} />
       </label>
-      <label>testOutput:
+      <label>Output:
         <textarea name="outputText" rows = {4} cols= {40} />
       </label>
     </div>
