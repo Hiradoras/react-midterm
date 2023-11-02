@@ -37,6 +37,6 @@
   }
 }
 
-#transformed-text {
-  transform: rotate'90deg';
+#output {
+  transform: rotate(180deg);
 }
