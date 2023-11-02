@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-midterm/static/css/main.93732638.css",
-    "main.js": "/react-midterm/static/js/main.e7d19423.js",
+    "main.js": "/react-midterm/static/js/main.fe2a2819.js",
     "static/media/logo.svg": "/react-midterm/static/media/logo.9e55d2d244c243863875b36fcebc3e13.svg",
     "index.html": "/react-midterm/index.html",
     "main.93732638.css.map": "/react-midterm/static/css/main.93732638.css.map",
-    "main.e7d19423.js.map": "/react-midterm/static/js/main.e7d19423.js.map"
+    "main.fe2a2819.js.map": "/react-midterm/static/js/main.fe2a2819.js.map"
   },
   "entrypoints": [
     "static/css/main.93732638.css",
-    "static/js/main.e7d19423.js"
+    "static/js/main.fe2a2819.js"
   ]
 }
