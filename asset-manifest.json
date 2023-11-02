@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7Breact-midterm%7D/static/css/main.93732638.css",
+    "main.js": "/%7Breact-midterm%7D/static/js/main.a00e2827.js",
+    "static/media/logo.svg": "/%7Breact-midterm%7D/static/media/logo.9e55d2d244c243863875b36fcebc3e13.svg",
+    "index.html": "/%7Breact-midterm%7D/index.html",
+    "main.93732638.css.map": "/%7Breact-midterm%7D/static/css/main.93732638.css.map",
+    "main.a00e2827.js.map": "/%7Breact-midterm%7D/static/js/main.a00e2827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93732638.css",
+    "static/js/main.a00e2827.js"
+  ]
+}
