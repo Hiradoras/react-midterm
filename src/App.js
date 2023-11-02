@@ -6,7 +6,11 @@ import { useState } from 'react';
 
 
 const App = () => {
+  const handleClick = () => {
+    console.log(input)
+  }
   const [input, setInput] = useState('');
+  const [output, setOutput] = useState('');
 
   const handleMessageChange = event => {
     // 👇️ access textarea value
@@ -38,21 +42,18 @@ const App = () => {
           <textarea
           id="output"
           name="OutputText"
+          value={output}
+          // onChange={handleMessageChange}
           rows={4}
-          cols={40}></textarea>
+          cols={40}>
+          </textarea>
         </label>
       </div>
-      {/* <label htmlFor="message">My Textarea</label>
-      <textarea
-        id="message"
-        name="message"
-        value={input}
-        onChange={handleMessageChange}
-      /> */}
-
       <hr />
 
-      <button disabled={!input}>CLICK</button>
+      <button disabled={!input}
+      onClick={handleClick}
+      >CLICK</button>
     </div>
   );
 };
